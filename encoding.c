@@ -19,6 +19,8 @@
  *
  * Original code for IsoLatin1 and UTF-16 by "Martin J. Duerst" <duerst@w3.org>
  */
+#define TRUE 1
+#define FALSE 0
 
 #define IN_LIBXML
 #include "libxml.h"
